@@ -1,0 +1,442 @@
+  [
+ {
+  "titulo": "Resolução nº 141/2010 da ANAC",
+  "autor": "Agência Nacional de Aviação Civil (ANAC)",
+  "ano": 2010,
+  "url_pdf": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/resolucoes-2010/resolucao-no-141-de-09-03-2010",
+  "resumo": "Dispõe sobre as Condições Gerais de Transporte aplicáveis aos atrasos e cancelamentos de voos, interrupção do serviço e às hipóteses de preterição de passageiros, estabelecendo os deveres de informação, assistência material, reacomodação e reembolso pelas companhias aéreas.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["direitos_do_passageiro", "transporte_aereo", "regulamentacao"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_normativo",
+    "tipo_documento": "resolucao",
+    "fonte": "anac.gov.br",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+    "titulo": "Resolução nº 196/2011 da ANAC",
+    "autor": "Agência Nacional de Aviação Civil (ANAC)",
+    "ano": 2011,
+    "url_pdf": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/resolucoes-2011/resolucao-no-196-de-24-08-2011",
+    "resumo": "Regulamenta o serviço de atendimento ao passageiro (presencial, telefônico e internet) pelas empresas de transporte aéreo regular, determinando a emissão de número de protocolo, prazo de resposta de até 5 dias úteis, acessibilidade e estrutura física obrigatória nos aeroportos com movimentação anual superior a 500 mil passageiros.",
+    "data_insercao": "2025-10-29T13:00:00.000Z",
+    "status": "Pendente",
+    "embedding_status": "pending",
+    "metadata": {
+      "tema": ["atendimento_ao_consumidor", "transporte_aereo", "regulamentacao", "direitos_do_passageiro"],
+      "nivel": "geral",
+      "idioma": "pt",
+      "contexto_educacional": "informativo_normativo",
+      "tipo_documento": "resolucao",
+      "fonte": "anac.gov.br",
+      "licenca": "dominio_publico"
+    }
+},
+
+{
+  "titulo": "Resolução nº 130/2009 da ANAC",
+  "autor": "Agência Nacional de Aviação Civil (ANAC)",
+  "ano": 2009,
+  "url_pdf": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/resolucoes-2009/resolucao-no-130-de-08-12-2009",
+  "resumo": "Aprova os procedimentos de identificação do passageiro para embarque nos aeroportos brasileiros, definindo os documentos aceitos para nacionais e estrangeiros, além de regras específicas para menores e indígenas em voos domésticos e internacionais.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["identificacao_de_passageiros", "transporte_aereo", "regulamentacao", "seguranca_aeroportuaria"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_normativo",
+    "tipo_documento": "resolucao",
+    "fonte": "anac.gov.br",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "Resolução nº 009/2007 da ANAC",
+  "autor": "Agência Nacional de Aviação Civil (ANAC)",
+  "ano": 2007,
+  "url_pdf": "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/resolucoes-2007/resolucao-no-009-de-05-06-2007",
+  "resumo": "Aprova a Norma Operacional de Aviação Civil (NOAC) sobre o acesso ao transporte aéreo de passageiros com necessidade de assistência especial, estabelecendo regras para atendimento prioritário, acessibilidade, transporte de cães-guia e acompanhantes.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["assistencia_especial", "acessibilidade", "transporte_aereo", "regulamentacao"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_normativo",
+    "tipo_documento": "resolucao",
+    "fonte": "anac.gov.br",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "Documentos para viajar de avião (GOL)",
+  "autor": "GOL Linhas Aéreas",
+  "ano": 2026,
+  "url_pdf": "https://www.voegol.com.br/informacoes/documentos-para-viajar-de-aviao",
+  "resumo": "Apresenta os requisitos e documentos válidos para embarque em voos domésticos operados pela GOL, detalhando as regras para adultos, menores de 12 a 18 anos incompletos, uso de nome social, passageiros estrangeiros e regras para documentos digitais ou perda/roubo.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["identificacao_de_passageiros", "documentacao_de_viagem", "transporte_aereo", "regras_embarque"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "voegol.com.br",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Documentos de identificação eletrônicos aceitos em voos domésticos",
+  "autor": "Agência Nacional de Aviação Civil (ANAC)",
+  "ano": 2021,
+  "url_pdf": "https://www.gov.br/anac/pt-br/assuntos/passageiros/documentos-para-embarque/documentos-de-identificacao-eletronicos-voos-domesticos",
+  "resumo": "Apresenta as regras e diretrizes da ANAC para a utilização de documentos de identificação eletrônicos em embarques de voos domésticos, exigindo exibição pelo aplicativo oficial e proibindo o uso de capturas de tela.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["documentos_eletronicos", "identificacao_de_passageiros", "voos_domesticos", "embarque", "regulamentacao"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_normativo",
+    "tipo_documento": "guia_operacional",
+    "fonte": "gov.br/anac",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "Guia Completo de Embarque e Documentação (Azul)",
+  "autor": "Azul Linhas Aéreas",
+  "ano": 2026,
+  "url_pdf": "https://www.voeazul.com.br/br/pt/sua-viagem/planeje/documentacao",
+  "resumo": "Apresenta os requisitos e documentos necessários para embarque em voos nacionais e internacionais da Azul, detalhando as regras para voos por destino, transporte de menores desacompanhados ou acompanhados e exigências sanitárias/veterinárias para o transporte de pets.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["identificacao_de_passageiros", "documentacao_de_viagem", "menor_desacompanhado", "transporte_de_pets", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "voeazul.com.br",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Viagem com animais de estimação (LATAM)",
+  "autor": "LATAM Airlines",
+  "ano": 2026,
+  "url_pdf": "https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/transporte-de-animais-de-estimacao",
+  "resumo": "Apresenta as regras e modalidades de transporte de animais na LATAM, incluindo pet na cabine, pet no bagageiro e LATAM Cargo, além dos requisitos para transporte de Cães de Serviço (SVAN) e Animais de Apoio Emocional (ESAN).",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["transporte_de_pets", "animais_de_assistencia", "pet_na_cabine", "transporte_aereo", "regras_embarque"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "latamairlines.com",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "FAQ - Perguntas Frequentes Aeroporto de Brasília",
+  "autor": "Aeroporto de Brasília (Inframerica)",
+  "ano": 2026,
+  "url_pdf": "https://www.bsb.aero/faq",
+  "resumo": "Perguntas mais frequentes sobre o Aeroporto de Brasília, abordando temas como antecedência para embarque, orientação ao passageiro, voos domésticos e internacionais, infraestrutura aeroportuária e serviços disponíveis.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["antecedencia_embarque", "orientacao_passageiro", "voos_domesticos", "voos_internacionais", "infraestrutura_aeroportuaria"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "faq",
+    "fonte": "bsb.aero",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Bagagem na Azul: prepare suas malas sem dúvidas",
+  "autor": "Azul Linhas Aéreas",
+  "ano": 2026,
+  "url_pdf": "https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens",
+  "resumo": "Apresenta o guia de medidas, limites de dimensão e pesos permitidos para bagagem despachada, bagagem de mão e artigo pessoal em voos operados pela Azul Linhas Aéreas.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["bagagem_de_mao", "bagagem_despachada", "artigo_pessoal", "dimensoes_e_peso", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "voeazul.com.br",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Regras de Bagagem e Conexões (GOL)",
+  "autor": "GOL Linhas Aéreas",
+  "ano": 2026,
+  "url_pdf": "https://www.voegol.com.br/nh/fazendo-as-malas4",
+  "resumo": "Apresenta as regras completas de bagagem da GOL para voos próprios e com parceiras, detalhando normas de bagagem de mão, itens proibidos, transporte de itens para bebês, procedimentos de conexão/alfândega, extravio/danos, além de valores para compra de bagagem extra e excesso de peso.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["bagagem_de_mao", "bagagem_despachada", "excesso_de_peso", "conexao_internacional", "extravio_de_bagagem", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "voegol.com.br",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Conheça os diferentes tipos de bagagem na LATAM",
+  "autor": "LATAM Airlines",
+  "ano": 2026,
+  "url_pdf": "https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/bagagem",
+  "resumo": "Apresenta os tipos de bagagem aceitos pela LATAM, detalhando limites de peso, dimensões e inclusões tarifárias para bolsa ou mochila, mala pequena de mão e bagagem despachada, além de orientações gerais sobre artigos proibidos e bagagem especial.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["bagagem_de_mao", "bagagem_despachada", "artigo_pessoal", "dimensoes_e_peso", "tarifas", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "latamairlines.com",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Objetos restritos e proibidos (LATAM)",
+  "autor": "LATAM Airlines",
+  "ano": 2026,
+  "url_pdf": "https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/bagagem/objetos-restritos-e-proibidos",
+  "resumo": "Apresenta o guia detalhado sobre restrições e proibições para o transporte de bagagens em voos da LATAM, abrangendo regras de segurança (IATA), limitações para alimentos, líquidos, bebidas alcoólicas, medicamentos, eletrônicos, baterias/power banks, instrumentos musicais e diretrizes alfandegárias de destinos específicos.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["objetos_proibidos", "objetos_restritos", "liquidos_e_géis", "eletronicos_e_baterias", "medicamentos", "normas_iata", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_operacional",
+    "tipo_documento": "guia_operacional",
+    "fonte": "latamairlines.com",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Itens que não podem ser levados na bagagem de mão (GOV/ANAC)",
+  "autor": "Agência Nacional de Aviação Civil (ANAC)",
+  "ano": 2017,
+  "url_pdf": "https://www.gov.br/anac/pt-br/assuntos/passageiros/itens-que-nao-podem-ser-levados-na-bagagem-de-mao",
+  "resumo": "Apresenta as diretrizes oficiais da ANAC sobre itens proibidos na bagagem de mão, incluindo armas, objetos pontiagudos, ferramentas, explosivos e substâncias tóxicas, além de esclarecer regras para líquidos em voos internacionais, medicamentos e exceções permitidas a bordo.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["bagagem_de_mao", "itens_proibidos", "seguranca_aeroportuaria", "regulamentacao", "liquidos_e_geis"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_normativo",
+    "tipo_documento": "guia_operacional",
+    "fonte": "gov.br/anac",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "O que posso transportar? (Artigos Perigosos)",
+  "autor": "Agência Nacional de Aviação Civil (ANAC)",
+  "ano": 2023,
+"url_pdf": "https://www.gov.br/anac/pt-br/assuntos/regulados/empresas-aereas/artigos-perigosos/o-que-posso-transportar",
+  "resumo": "Orientação oficial da ANAC referente às restrições de transporte de artigos perigosos, objetos contundentes, perfurantes e substâncias nocivas em bagagens de mão e despachadas, destacando o papel regulatório de segurança operacional e a autonomia das empresas aéreas e agentes de proteção no embarque de itens.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["artigos_perigosos", "seguranca_aeroportuaria", "bagagem_de_mao", "bagagem_despachada", "regulamentacao"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_normativo",
+    "tipo_documento": "guia_operacional",
+    "fonte": "gov.br/anac",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "Como Fazer Check-in (GOL)",
+  "autor": "GOL Linhas Aéreas",
+  "ano": 2026,
+  "url_pdf": "https://www.voegol.com.br/informacoes/como-fazer-check-in",
+  "resumo": "Apresenta os canais e prazos para realização do check-in em voos da GOL (site, aplicativo, totens e balcão), incluindo regras para bebês, restrições para rotas específicas e orientações sobre chegada ao aeroporto e despacho de bagagem.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["check_in", "prazos_de_embarque", "canais_digitais", "orientacao_passageiro", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "voegol.com.br",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Faça seu Check-in Online (Azul)",
+  "autor": "Azul Linhas Aéreas",
+  "ano": 2026,
+  "url_pdf": "https://www.voeazul.com.br/br/pt/home/azulwebcheckin",
+  "resumo": "Apresenta os prazos, orientações e modalidades para realização do check-in na Azul (online pelo site/app, check-in automático via WhatsApp e presencial no balcão do aeroporto), incluindo orientações sobre antecedência de chegada, despacho de bagagem e voos interline/codeshare.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["check_in", "prazos_de_embarque", "canais_digitais", "orientacao_passageiro", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "voeazul.com.br",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "Check-in automático (LATAM)",
+  "autor": "LATAM Airlines",
+  "ano": 2026,
+  "url_pdf": "https://www.latamairlines.com/br/pt/experiencia/digital/check-in-automatico",
+  "resumo": "Explica o funcionamento do check-in automático da LATAM para voos nacionais e internacionais operados pela companhia, detalhando os prazos de disponibilidade do cartão de embarque via aplicativo/site, os casos que exigem check-in manual e as orientações para voos comprados via agência ou com parceiras como a Delta.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["check_in_automatico", "cartao_de_embarque", "prazos_de_embarque", "canais_digitais", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_comercial",
+    "tipo_documento": "guia_operacional",
+    "fonte": "latamairlines.com",
+    "licenca": "proprietario"
+  }
+},
+
+{
+  "titulo": "O que levar na mala para uma viagem com saúde",
+  "autor": "A.C.Camargo Cancer Center",
+  "ano": 2026,
+  "url_pdf": "https://www.climatempo.com.br/noticia/2016/11/11/o-que-levar-na-mala-para-uma-viagem-com-saude-3127",
+  "resumo": "Apresenta um guia prático de cuidados preventivos de saúde ao viajar, incluindo recomendações sobre documentos, seguro viagem, vacinação, itens de higiene, proteção solar e cuidados básicos com a ingestão de água e alimentos.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["saude_do_viajante", "prevenção_de_doencas", "cuidados_com_alimentacao", "itens_essenciais", "higiene_pessoal"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_orientador",
+    "tipo_documento": "guia_operacional",
+    "fonte": "accamargo.org.br",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "Portal de Monitoramento e Previsão Meteorológica",
+  "autor": "Instituto Nacional de Meteorologia (INMET) / MAPA",
+  "ano": 2026,
+  "url_pdf": "https://portal.inmet.gov.br/",
+  "resumo": "Apresenta a estrutura de navegação e os serviços disponibilizados pelo INMET, incluindo avisos meteorológicos, agrometeorologia, dados de estações, monitoramento climático, modelos de previsão numérica e imagens de satélite.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["previsao_do_tempo", "agrometeorologia", "avisos_meteorologicos", "dados_climaticos", "monitoramento_ambiental"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_normativo",
+    "tipo_documento": "portal_governamental",
+    "fonte": "inmet.gov.br",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "Guia de Mala de Viagem Versátil com Checklist — Brasil",
+  "autor": "BrasilTurHub",
+  "ano": 2026,
+  "url_pdf": "https://brasilturhub.com/guias/mala-viagem-brasil/",
+  "resumo": "Apresenta um guia prático e versátil para planejamento de malas de viagem no Brasil, oferecendo checklists detalhados por tipo de clima (equatorial, litorâneo, semiárido, subtropical, altitude e montanha), por público (adultos, idosos e crianças) e por tipo de atividade.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["planejamento_de_viagem", "checklist_de_mala", "tipos_de_clima", "saude_e_seguranca_do_viajante", "dicas_de_bagagem"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_orientador",
+    "tipo_documento": "guia_operacional",
+    "fonte": "site_de_turismo",
+    "licenca": "dominio_publico"
+  }
+},
+
+{
+  "titulo": "Checklist de viagem para o Brasil: o que preparar antes de viajar",
+  "autor": "Chang Express",
+  "ano": 2026,
+  "url_pdf": "https://changexpress.com/pt/checklist-viagem-brasil/",
+  "resumo": "Apresenta um guia completo e estruturado para o planejamento de viagens ao Brasil, abrangendo a verificação de documentos, vistos, passagens, regras de bagagem, montagem da mala conforme a região, planejamento financeiro, saúde, seguro viagem, assistência especial e procedimentos para o dia do embarque.",
+  "data_insercao": "2025-10-29T13:00:00.000Z",
+  "status": "Pendente",
+  "embedding_status": "pending",
+  "metadata": {
+    "tema": ["planejamento_de_viagem", "checklist_de_viagem", "documentacao_de_viagem", "regras_de_bagagem", "saude_do_viajante", "transporte_aereo"],
+    "nivel": "geral",
+    "idioma": "pt",
+    "contexto_educacional": "informativo_orientador",
+    "tipo_documento": "guia_operacional",
+    "fonte": "changexpress.com",
+    "licenca": "proprietario"
+  }
+}
+
+]
